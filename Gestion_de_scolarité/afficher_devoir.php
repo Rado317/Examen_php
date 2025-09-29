@@ -26,7 +26,6 @@ $data = mysqli_query($connection, "SELECT DISTINCT promotion FROM classe ORDER B
             --dark-color: #2c3e50;
             --light-color: #ecf0f1;
         }
-        
         body {
             background-color: #f8f9fa;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -388,4 +387,5 @@ $data = mysqli_query($connection, "SELECT DISTINCT promotion FROM classe ORDER B
 </div>
 
 </body>
+
 </html>
